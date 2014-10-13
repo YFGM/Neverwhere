@@ -37,7 +37,7 @@
 * Enchanting
 * Arcane Machines
 
-# High Tech
+## High Tech
 
 * Research
 * High Tech resources
