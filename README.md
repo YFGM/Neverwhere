@@ -45,7 +45,7 @@ An open source fantasy survival game for IRC. **Note that this repo is currently
 * Rolling Guide
 * Character Creation
 
- Read these documents carefully and try to get an understanding of what kind of character you want to be, and how you want to play him. Then when you have a bit of a grip, you can start making your character as the Character Creation document explains. Don't worry if it isn't perfect right away, you will have plenty of time later to refine and expand your character.
+Read these documents carefully and try to get an understanding of what kind of character you want to be, and how you want to play him. Then when you have a bit of a grip, you can start making your character as the Character Creation document explains. Don't worry if it isn't perfect right away, you will have plenty of time later to refine and expand your character.
  
  Also consider what role(s) you might want to fill. Every character is expected to have a job, and many will probably want to also be capable fighters. But what do you want to do? Be a powerful adventurer that only does menial work in the quarry during the week? Or maybe you would rather be a wealthy and influential business man? Or the leading town architect? Or just the best cook in town? Neverwhere gives you the chance to fill just about any role there could be in a community, if you so desire. Design your character appropriately, and note that you will probably have to read some extra rules depending on what you want your character to do later on!
  
