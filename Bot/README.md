@@ -83,7 +83,7 @@ Cancels a crafting task, gives back the character the appropriate half finished 
 Shows what a character is currently crafting and how far they are into the job. Can be looked up in doc.
 
 
-- Job -
+## Job
 
 **!job <Character Name or ID> <Password> <Type> <Job Site ID> [Part/Full Time] [Salary]**
 
@@ -136,14 +136,14 @@ Set the town's rations. Admin only.
 TODO: Adding rations, calculating starvation, change ration size
 
 
-## Worksites -
+## Worksites
 
 **!newworksite <Name> <Type> <Capacity> etc**
 
 JOBS AND WORKSITES NEED INDIVIDUAL ALGORITHMS. TODO
 
 
-## Storage -
+## Storage
 
 **!store <Character Name or ID> <Password> <Type of stuff> <amount> <Storage Name or ID>**
 
@@ -154,7 +154,7 @@ Stores an appropriate amount of stuff into a storehouse. Use is logged, since ab
 Retrieves an appropriate amount of stored stuff and adds it to your gathering inventory. Use is logged, maybe admin only.
 
 
-## Utility -
+## Utility
 
 **!m(essages) <Player name or ID> <Password> [ID]**
 
