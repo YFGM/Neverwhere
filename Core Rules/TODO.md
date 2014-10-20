@@ -9,6 +9,8 @@
 ## Living Life
 * Create the whole thing
 * Be sure to not get over technical
+*Finish it
+
 
 ## Perks
 * Add some more perks
