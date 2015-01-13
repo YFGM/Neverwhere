@@ -30,6 +30,12 @@
 * Governmental Systems
 * Using NPCs
 
+## Sanity
+ * SAN stat
+ * SAN loss
+ * Insanities
+ * Treatment for Insanity
+
 ## Spell Creation and Magical Items
 
 * Spell Research
