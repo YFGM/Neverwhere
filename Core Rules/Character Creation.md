@@ -81,7 +81,7 @@
  Record your perks in chronological order, this is VERY IMPORTANT! Certain perks need a "cooldown" period between times you can take them. Unless otherwise stated, you cannot take a perk more than once, their effects stack and you must always fulfill ALL prerequisites listed BEFORE selecting a perk. Temporary increases, such as from magic items, do NOT count towards fulfilling prerequisites!
  A perk is denoted as follows:
 
- - Perk Name [Sometimes, a category is listed here, which may effect how the perk is selected] -
+  Perk Name [Sometimes, a category is listed here, which may effect how the perk is selected] 
  Prerequisites: You must fulfill all criteria listed here before you may take this perk. If you lose a prerequisite after taking a perk, you lose it's benefits until you qualify again. You do NOT gain a perk in exchange for one you no longer qualify for! If no prerequisites are listed, anyone may take the perk.
  Benefit: This is what you gain from having this perk.
  Special: If any special rules apply, such as being able to take this perk multiply times, it will be explained here.
