@@ -2,9 +2,9 @@
 
 -- What is a Perk --
 
- A "Perk" is a certain small-moderate increase in power your character will gain after a set time interval (usually 14 or 30 days). This is supposed to represent his learning and training, becoming more and more adept at whatever he practices as time goes by, whether a craft or physical fitness. Perks vary widely in what benefits they grant, while the basic ones give an increase in stats, others may unlock crafting skills, magical abilities, combat maneuvers and more. How useful a given Perk is is something of a matter of circumstance. Sure taking 5 Improved Will won't help you much when fighting off marauding goblins, but hell if you won't have the edge against mindcontrolling ghosts! 
+ A "Perk" is a certain small-moderate increase in power your character will gain after a set time interval (usually 14 or 30 days). This is supposed to represent his learning and training, becoming more and more adept at whatever he practices as time goes by, whether a craft or physical fitness or anything else. Perks vary widely in what benefits they grant, while the basic ones give an increase in stats, others may unlock crafting skills, magical abilities, combat maneuvers and more. How useful a given Perk is is something of a matter of circumstance. Sure taking 5 Improved Will won't help you much when fighting off marauding goblins, but hell if you won't have the edge against mindcontrolling ghosts! 
  Players though are very urged to not select Perks in pursuit of a particularly powerful "character build" they thought of, but to select Perks to represent what their character has been focusing on and what he would be good at. It may be tempting to dump all Perks towards getting a particularly lucrative spell or combat ability, but did your character really spend all those months focusing on gaining this new ability? Not that ultimately anyone can necessarily stop you, but it would be very bad etiquette to suddenly pop up with a new ability without ever before mentioning it IC.
- There are some special Perks, such as Flaws, that are awarded not from time gone by but certain in game events, such as a crippling wound. These are recorded separately from your chronological Perk collection and usually do not count against your maximum.
+ There are some special Perks, such as Flaws, that are awarded not from time gone by but certain in game events, such as a crippling wounds. These are recorded separately from your chronological Perk collection and usually do not count against your maximum.
 
 
 -- The Different Types of Perks --
@@ -12,9 +12,9 @@
  There are several different types of perks, some with special rules, some just named so for convenience. Some Perks may require a certain number of Perks from a certain list. For example an advanced combat maneuver might require 5 [Combat] Perks. The type or category of a perk is given in [brackets], and multiple types are separated by a comma. The most important types are given here:
 
 - Tiered -
- One, if not the, most important type of Perk in Neverwhere. [Tiered] Perks have the distinction that they can be selected in theory as often as you wish, but always with a "cooldown" between selections. What this means is if you select a given tiered perk, you must wait an amount of "perks" equal to the times you have already selected the perk before you may select it again. Reselecting a perk always resets the "cooldown". This is to simulate that a true dedication over a long time to a Tiered ability is required to truly master it. Most Skill and Basic Perks are Tiered.
+ One of, if not the, most important type of Perk in Neverwhere. [Tiered] Perks have the distinction that they can be selected in theory as often as you wish, but always with a "cooldown" between selections. What this means is if you select a given tiered perk, you must wait an amount of "perks" equal to the times you have already selected the perk before you may select it again. Reselecting a perk always resets the "cooldown". This is to simulate that a true dedication over a long time to a Tiered ability is required to truly master it. All Skill and Basic Perks are Tiered.
 
- Example: Improved HP is a [Basic, Tiered] Perk. Selecting it as your first perk of our character build means we must wait until we have required 1 additional perk before we can select it again, since we have selected it once so far. So we cannot take it as our second perk, we have to wait till our third perk to pick it. Assuming we select it again as our third, we must now wait 2 "perks" before we can take it again, aka we can only take it earliest perk 6. If we though would not take it as perk 6, but instead waited till perk 7, we could not take it again until perk 11, not perk 10, not selecting it as perk 6 delayed our progress in this Tiered path.
+ Example: Improved HP is a [Basic, Tiered] Perk. Selecting it as your first perk of our character build means we must wait until we have acquired 1 additional perk before we can select it again, since we have selected it once so far. So we cannot take it as our second perk, we have to wait till our third perk to pick it. Assuming we select it again as our third, we must now wait 2 "perks" before we can take it again, aka we can only take it earliest perk 6. If we though would not take it as perk 6, but instead waited till perk 7, we could not take it again until perk 11, not perk 10, not selecting it as perk 6 delayed our progress in this Tiered path.
 
 - Quirk -
  A Quirk is a Perk that has both positive and negative effects on a character, but otherwise functions as any other perk.
@@ -32,7 +32,7 @@
  A Weapon Perk is specific only to a single group of weapons (See Weapon Groups under [Equipment), and you only gain it's benefit when you are wielding the appropriate type of weapon. You must select what type of weapons the Perk applies to, and this decision cannot be changed later. You can select Weapon Perks multiple times, their effects do not stack but instead apply to a different weapon group each time.
 
 - Skill -
- A Skill Perk increases a Skill (See Skills and Crafting) and is always Tiered as well, usually having no prerequisites, but some advanced Skills may have prerequisites.
+ A Skill Perk increases a Skill (See Skills and Crafting), is always Tiered and usually has no prerequisites, but some advanced Skills may have prerequisites.
 
 - Magic -
  The ability granted by this Perk is magical in nature, and doesn't work in a non-magical area.
@@ -43,8 +43,9 @@
 
 -- Gaining Perks --
 
- In general, you may add 1 Perk to your character per time interval that the game you are playing has been running. This time interval is usually 14 or 30 days, depending on the campaign, but could be anything else. This Perk may be anyone you qualify for. To qualify for a Perk, you must fulfill any prerequisites it lists and any restrictions given by it's type. If you lose a prerequisite after taking a perk, you lose it's benefits.
- When selecting a perk, be careful what you go for, because come next perk, your decision is permanent. Since it's well possible that you may make a mistake you don't notice at first when picking a perk, you may switch out the last perk you picked for another, but only ONCE, the second perk you pick is then permanent. Next time you get a new perk, you may also switch that one out once, but it becomes permanent if it is switched out or no longer is the last perk. For example, say for perk 11 I made a bad choice, and decide to switch it out. The second one I chose is now my 11th perk, and I am not allowed to switch it out ever again. For perk 12, I take a decent onoe. If I wanted to, I could also switch this one out, but if perk 13 dawns, I can't switch out the 12th perk anymore. This is to prevent characters switching abilities as needed while still allowing some leeway to players making a mistake. If you want to change any of your perks beyond this, you'll have to get special permission.
+ In general, you may add 1 Perk to your character per time interval that the game you are playing has been running. This time interval is usually 14 or 30 days, depending on the campaign, but could be anything else. This Perk may be any you qualify for. To qualify for a Perk, you must fulfill any prerequisites it lists and any restrictions given by it's type. If you lose a prerequisite after taking a perk, you lose it's benefits. You do not gain a different perk in place of a perk you have lost the prerequisites for.
+ When selecting a perk, be careful what you go for, because your decision is usually permanent. Since it's well possible that you may make a mistake you don't notice at first when picking a perk, many groups allow the following optional rule:
+ You may switch out the last perk you picked for another, but only ONCE, the second perk you pick is then permanent. Next time you get a new perk, you may also switch that one out once, but it becomes permanent if it is switched out or no longer is the last perk. For example, say for perk 11 I made a bad choice, and decide to switch it out. The second one I chose is now my 11th perk, and I am not allowed to switch it out ever again. For perk 12, I take a decent one. If I wanted to, I could also switch this one out, but if perk 13 dawns, I can't switch out the 12th perk anymore. This is to prevent characters switching abilities as needed while still allowing some leeway to players making a mistake. If you want to change any of your perks beyond this, you'll have to get special permission.
  Some spells, magical items or other effects can temporarily grant you the benefit of a perk (including a flaw). These "temporary perks" (any perks not gained from time progression) are recorded separately from your normal perks and do NOT count against prerequisites calling for having a certain amount of perks beforehand nor do they count towards a Tiered perk's cooldown. Unless otherwise specified, you usually do NOT have to fulfill the prerequisites of a temporary perk to gain it's benefit. How to get rid of these perks (especially if they are flaws) depends on what gave you them in the first place.
  Unless otherwise noted or dictated by it's type, you cannot select a perk more than once. If you can it's effects usually stack or apply to a different group of situations, as specified by the perk and/or it's type.
 
@@ -62,7 +63,7 @@
  These are the most Basic of Perks that simply increase one secondary attribute.
 
  - Improved HP [Basic, Tiered] -
- Benefit: You are unusually hardy, gaining you +2 HP.
+ Benefit: You are unusually hardy, you gain +2 HP.
 
  - Improved FP [Basic, Tiered] -
  Benefit: You have great stamina, increasing your FP by +1.
@@ -74,25 +75,27 @@
  Benefit: You are adept at ranged combat, giving you +1 to RAB.
 
  - Improved Will [Basic, Tiered] -
- Benefit: You have an iron will, increasing your will by +1.
+ Benefit: You have an iron will, increasing your Will by +1.
 
- - Improved Perception [Basic, Tiered] -
- Benefit: Your senses are especially canny, giving you +1 to Per.
- 
  - Improved Reaction [Basic, Tiered] -
  Benefit: Your lightning reflexes increase your Re by 0.5.
 
- - Improved Basic Lift [Basic, Tiered] -
- Benefit: You are good at carrying heavy loads, giving you +3 BL. You cannot exceed twice your original BL without increasing Str using this perk.
-
  - Improved Fortitude [Basic, Tiered] -
- Benefit: Your are very harding, giving you +1 to Fort.
+ Benefit: Your resilient body grants you +1 to Fort.
+
+ - Improved Perception [Basic, Tiered] -
+ Benefit: Your senses are especially canny, giving you +1 to Per.
+
+ - Improved Basic Lift [Basic, Tiered] -
+ Benefit: You are good at carrying heavy loads, giving you +10% of your current BL. 
+ Special: You cannot exceed twice your original BL (+100%) using this perk (Meaning you can only select it 10 times).
 
 - Magic Perks -
 
  - Arcane Gift [Magic] -
   Prerequisites: 10 Int+
-  Benefit: For reasons unknown, you are gifted with the ability to channel arcane energies. You gain Mage Level 1 (See [Spellcast]), and can begin learning arcane spells. Magic though, is dangerous to the mind and body, and selecting this perk immediately deals 20 permanent San damage (See [SANITY]).
+  Benefit: For reasons unknown, you are gifted with the ability to channel arcane energies. You gain Mage Level 1 (See [Spellcast]), and can begin learning arcane spells. 
+  Special: Magic is dangerous to the mind and body, and selecting this perk immediately deals 20 permanent San damage (See [SANITY]).
 
 - Skill Perks -
 
@@ -106,13 +109,13 @@
 
 - Quirks -
 
- Quirks are little personality traits that your character may have that are both good in some situations, and detrimental in others. A Quirk functions just like a perk, but in addition to a benefit, it has a drawback, some form of negative effect. You can pick up to two free Quirks as part of character creation, and can take further Quirks in form of normal perks, if you wish. Quirks rarely have prerequisites.
+ Quirks are little personality traits that your character may have that are both good in some situations, and detrimental in others. A Quirk functions just like a perk, but in addition to a benefit, it has a drawback, some form of negative effect. Some groups allow you to pick free Quirks as part of character creation. Otherwise, you can Quirks in form of normal perks, if you wish. Quirks rarely have prerequisites.
 
 
  - Absent-Minded [Quirk] -
  You are fascinated by knowledge and learning and can follow complex lines of thought easily. However, this preoccupation with abstract thought often leaves you unaware of your surroundings.
  Benefit: You gain a +1 to all Int based skill rolls.
- Drawback: You take -1 to Per.
+ Drawback: You take -2 to Per.
 
  - Aggressive [Quirk] -
  You are hotheaded and quick to join a battle, and tend to press any advantage you get. This can though leave you open to attacks a more cautious warrior might avoid.
@@ -151,7 +154,7 @@
 
  - Focused [Quirk] -
  You tend to focus your concentration fully on one task, allowing you to do it well but sometimes missing what goes on around you.
- Benefit: You gain +2 to concentration checks.
+ Benefit: You gain +1 to concentration checks.
  Drawback: You gain -1 to Per.
 
  - Gigantism [Quirk] -
@@ -190,7 +193,7 @@
  Drawback: You suffer -1 to Will.
 
  - Plucky [Quirk] -
- You have a strength of will not reflected by your physical capabilities, perhaps even standing before the face of danger with an almost annoyingly positive mindset.
+ You have a strength of will not reflected by your physical capabilities, even standing before the face of danger with an almost annoyingly positive mindset.
  Benefit: You gain +1 to Will, and a further +1 to resist fear effects.
  Drawback: You suffer -1 on any Str or Fort checks.
 
