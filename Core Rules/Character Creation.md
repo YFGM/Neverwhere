@@ -9,14 +9,14 @@
  Be sure to be familiar with the setting you are playing in, and design your character to fit that setting. It may be very inappropriate to make a silly comedic relief character in a survival horror game, and similarly inappropriate to make a gritty survival horror character in a silly comedy game! You should show the basic gist of your character to veteran players of the game you wish to join, or the Over GM. They can surely point out if any parts of your character are unfitting for the game. Don't take this as negative criticism, remember that creating an inappropriate character can ruin the fun of other people too!
  From author to reader, I advise that if you are new to a game or not very experienced with RP to make a character as agreeable as possible. Good hearted characters are rewarding to play, are unlikely to cause grief to other characters and make GMs' lives much easier. Don't worry about adding too much depth to begin with, that can always still evolve during gameplay. Try to make a character that has a few interesting character traits, but at heart is a decent person and not too complicated. Often, less is more.
 
- Example: To go along with this, we shall create a character too. I find a game group I'd like to join and start working on a character concept. The setting is a typical Neverwhere style fantasy survival horror, a group of people are isolated in a dangerous wilderness haunted by everything from wolves, over dragons to eldritch horrors. The setting is quite gritty, violence is common placed. With this information I decide to play a grizzled spellsword. I decide to play a male human, since that fits my character and is what I can identify with. My spellsword will be a practical, no-nonsense, can-do-will-do kind of guy that gets things done and doesn't back down from danger. He is fearless to the point of psychopathy, and considers being capable of slaying powerful foes to be amongst the greatest virtues a man can have. As such, he studies the art of killing and hunting for the majority of his free time. He fights with a blend of offensive magic and swordplay, focusing on devastating precise attacks rather than endurance. He makes his fortune either by selling what he hunts or hiring himself out as a bodyguard. He has a sharp wit and eye, always alert. Whenever a problem presents itself, he tries to solve it as quickly and effectively as possible, by whatever means necessary. He is not mean, cruel or even unlikable, if one can tolerate his attitude. He simply believes in the virtue of strength, and does not tolerate enemies. He has no wish to torture or inflict harm on innocents, or even enemies, he just wishes enemies to stop existing as quickly and painlessly as possible. This feeling doesn't extend to beasts though, which he gladly slaughters for having the audacity of being found by him.
+> Example: To go along with this, we shall create a character too. I find a game group I'd like to join and start working on a character concept. The setting is a typical Neverwhere style fantasy survival horror, a group of people are isolated in a dangerous wilderness haunted by everything from wolves, over dragons to eldritch horrors. The setting is quite gritty, violence is common placed. With this information I decide to play a grizzled spellsword. I decide to play a male human, since that fits my character and is what I can identify with. My spellsword will be a practical, no-nonsense, can-do-will-do kind of guy that gets things done and doesn't back down from danger. He is fearless to the point of psychopathy, and considers being capable of slaying powerful foes to be amongst the greatest virtues a man can have. As such, he studies the art of killing and hunting for the majority of his free time. He fights with a blend of offensive magic and swordplay, focusing on devastating precise attacks rather than endurance. He makes his fortune either by selling what he hunts or hiring himself out as a bodyguard. He has a sharp wit and eye, always alert. Whenever a problem presents itself, he tries to solve it as quickly and effectively as possible, by whatever means necessary. He is not mean, cruel or even unlikable, if one can tolerate his attitude. He simply believes in the virtue of strength, and does not tolerate enemies. He has no wish to torture or inflict harm on innocents, or even enemies, he just wishes enemies to stop existing as quickly and painlessly as possible. This feeling doesn't extend to beasts though, which he gladly slaughters for having the audacity of being found by him.
  Looking this over, I decide I like this character and it fits the setting. I write down a few notes and name him "Aris".
 
 ## Step 0.5: Find Out What Rules are in Effect in your Game
 
  Before you even start filling out your character sheet, you should ask your gaming group if any special rules apply to character creation. Some groups for example might not use SAN, others may give more racial options than just human. The most important thing is for you to find how many starting perks your character has, and what the perk interval is. This is very important to know, and will be explained further down.
 
- Example: Asking my group, I find that there are 5 starting perks and the perk interval is two weeks. In addition I learn that SAN plays a very important role, and that there are several custom perks. I note this down for later, and consider already what forms of insanity would fit to my character (I pick Stress Disorder).
+> Example: Asking my group, I find that there are 5 starting perks and the perk interval is two weeks. In addition I learn that SAN plays a very important role, and that there are several custom perks. I note this down for later, and consider already what forms of insanity would fit to my character (I pick Stress Disorder).
 
 ## Step 1: Primary Attributes
 
@@ -41,7 +41,7 @@
  Higher bonuses to a single attribute tend to carry higher penalties. This is because a very high attribute is rarer than a few decently high ones.
  Once you have selected your scores, it is important for you to know how to use them. Your score minus 10 is your "attribute modifier", and is what determines how your rolls are affected by that attribute. For example, if I have 12 Str, I have a "+2 Str modifier", and whenever I roll a die regarding strength, I will add that +2. Attribute modifiers CAN be negative! A 9 on Vit would mean I have a "-1 Vit modifier".
 
- Example: Aris is quick, both with his body and his mind. I select the fourth template, and decide on giving him 8 Str, 12 Dex, 11 Int and 9 Vit. He is definitely more capable of dishing out hits than taking them. This also means he has a -2 Str modifier, +2 Dex modifier, +1 Int modifier and -1 Vit modifier.
+> Example: Aris is quick, both with his body and his mind. I select the fourth template, and decide on giving him 8 Str, 12 Dex, 11 Int and 9 Vit. He is definitely more capable of dishing out hits than taking them. This also means he has a -2 Str modifier, +2 Dex modifier, +1 Int modifier and -1 Vit modifier.
 
 ## Step 2: Secondary Attributes
 
@@ -72,7 +72,7 @@
 
  Get a feeling for what the secondary attributes are and think about which ones you might want to increase in the future to fit your character concept. If after this you feel your choice of primary attributes wasn't perfect, go back and change that, you still can now.
 
- Example: Aris has 8 Str, 12 Dex, 11 Int and 9 Vit. This means he has 8 HP, 9 FP, -2 MAB, +2 RAB, 11 AC, +1 Will, +1 Per, 0.5 Re, 5 Mo and 6.4 BL. Easy enough, right? I note these down and consider that increasing his MAB, Per and Re should be high priorities.
+> Example: Aris has 8 Str, 12 Dex, 11 Int and 9 Vit. This means he has 8 HP, 9 FP, -2 MAB, +2 RAB, 11 AC, +1 Will, +1 Per, 0.5 Re, 5 Mo and 6.4 BL. Easy enough, right? I note these down and consider that increasing his MAB, Per and Re should be high priorities.
 
 ## Step 3: Perks
 
@@ -90,41 +90,44 @@
 
  Note the name of your perk down as you pick it. Take a lot of time considering what perks you wish to take, and in what order. This will probably be what determines your character's abilities the most. Read all perk descriptions carefully, if asked, it is your responsibility to explain what a perk your character has does! If you are unsure of what perks to pick at this time, most game groups allow new players to start with fewer perks, and add them over time as they become more comfortable with the game. Some groups also have custom perk rules, such as free Quirks.
 
- Example: Aris is joining a two week old Neverwhere game, with a perk interval of 2 weeks and 5 starting perks, meaning he will start with 6 perks. If this game had already been running for 4 weeks, he would start with 7 instead of 6 perks. Looking through the perks, I definitely see that I have far too few perks to make the exact character I wanted. Oh well, I guess he's just trying to get better. For my first perk, I will select "Arcane Gift". This gives me the ability to cast spells, but deals 20 permanent sanity damage, reducing my max SAN to 90. For my second perk, I will take Weapon Proficiency (Light Blades), since Aris will primarily fight with light swords and rapiers. As a third, I take Improved Melee Attack, increasing my MAB to -1. I can't take Improved Melee Attack a second time as my fourth perk, since it is a tiered perk and the cooldown isn't over (See the perk doc for an explanation of tiered perks). Instead, I take Spellcasting. To see what that does, see the spellcasting doc [SPELLCASTING]. As my fifth perk, I select Improved Melee Attack, increasing my MAB to +0. I now can't select Improved Melee Attack again until I have gained two more perks (effectively making it the third perk from now at the earliest). Finally, I select Survival as my sixth perk, since Aris is a tracker of no small ability. I note all of this down in chronological order.
+> Example: Aris is joining a two week old Neverwhere game, with a perk interval of 2 weeks and 5 starting perks, meaning he will start with 6 perks. If this game had already been running for 4 weeks, he would start with 7 instead of 6 perks. Looking through the perks, I definitely see that I have far too few perks to make the exact character I wanted. Oh well, I guess he's just trying to get better. For my first perk, I will select "Arcane Gift". This gives me the ability to cast spells, but deals 20 permanent sanity damage, reducing my max SAN to 90. For my second perk, I will take Weapon Proficiency (Light Blades), since Aris will primarily fight with light swords and rapiers. As a third, I take Improved Melee Attack, increasing my MAB to -1. I can't take Improved Melee Attack a second time as my fourth perk, since it is a tiered perk and the cooldown isn't over (See the perk doc for an explanation of tiered perks). Instead, I take Spellcasting. To see what that does, see the spellcasting doc [SPELLCASTING]. As my fifth perk, I select Improved Melee Attack, increasing my MAB to +0. I now can't select Improved Melee Attack again until I have gained two more perks (effectively making it the third perk from now at the earliest). Finally, I select Survival as my sixth perk, since Aris is a tracker of no small ability. I note all of this down in chronological order.
 
 ## Step 3.5: Skills
 
  You have already been briefly introduced to skills if you read the perk document. Skills are tasks that require time and practice to master, such as acrobatics, herbalism or smithing. Skills are gained, like anything else, as perks. Every time you select a skill perk, you gain a bonus to that skill. The first two perks give +2 each, every further gives +1. Note that all skill perks are tiered, so reaching high skill levels takes time! 
  A skill is based on one of the four primary attributes, almost always Dex or Int, and has a "difficulty". A skill's difficulty can be easy, medium, hard or very hard. To determine your "default skill" in a skill, take your relevant primary attribute modifier, and apply a penalty of -2 if the skill is easy, -4 if it is medium, -6 if it is hard or -8 if it is very hard. If you ever need to roll against a skill you do not have, use this default skill level. Some skills though are marked "trained only". You cannot attempt to roll against such a skill AT ALL unless you have the skill perk at least once, you automatically fail any roll. Adding your bonus from perks to your default skill level yields your skill level, only note down skills you have perks in, since you can determine the others on the fly if needed.
 
- Example: Aris has a single skill perk: Survival. Survival is an Int/Easy skill. His Int modifier is +1, and easy means a -2, so his default skill is -1. Taking the perk once makes his survival skill now +1. If I were to take it again, it would be +3. If I would take it a third time, his bonus would be +4, since only the first two perks give +2. I note this down.
+> Example: Aris has a single skill perk: Survival. Survival is an Int/Easy skill. His Int modifier is +1, and easy means a -2, so his default skill is -1. Taking the perk once makes his survival skill now +1. If I were to take it again, it would be +3. If I would take it a third time, his bonus would be +4, since only the first two perks give +2. I note this down.
 
 ## Step 4: Calculate Final Scores and Fill out your Sheet
 
  Now that you have selected your perks, check them again to see if you are happy with them. Once you're done, calculate the final scores of your primary and secondary attributes. Then, record all your perks in chronological order, and calculate your skill levels. If you begin with items that you will carry at almost all times, you can add their bonuses and calculate your encumbrance here. See the equipment guide for more [EQUIP]. Your character sheet will be most important during adventures, so it may be wise to record it in the state you would be in when beginning an adventure. You can also have multiple sheets of course, detailing different common "loadouts".
  As a simple template, you can use the following (The secondary attributes are ordered by "point-based scores", "combat scores", "resistance scores" and "other scores"):
 
- Name, Gender Race
- X Str X Dex X Int X Vit
- X HP X FP X SAN
- X MAB X RAB X AC
- X Will X Re X Fort
- X Per X Mo X BL
- Perks: [Collar (Bonus perks), Chronological List of Perks]
- Skills: [List of skills with modifiers]
- Spells: [List of spells, if appropriate]
+* Name, Gender Race
+* X Str X Dex X Int X Vit
+* X HP X FP X SAN
+* X MAB X RAB X AC
+* X Will X Re X Fort
+* X Per X Mo X BL
+* Perks: [Collar (Bonus perks), Chronological List of Perks]
+* Skills: [List of skills with modifiers]
+* Spells: [List of spells, if appropriate]
 
  Example: Finishing our character, here is his final sheet:
 
- Aris, Male Human
- 8 Str 12 Dex 11 Int 9 Vit
- 8/8 HP 9/9 FP 90/90 SAN
- +0 MAB +2 RAB 11 AC
- +1 Will +0.5 Re -1 Fort
- +1 Per 5 Mo 6.4 BL
- Perks: Arcane Gift, Weapon Proficiency (Light Blades), Improved Melee Attack I, Spellcasting, Improved Melee Attack II, Survival I
- Skills: Survival +1
- Spells: Spark-10
+>* Aris, Male Human
+>* 8 Str 12 Dex 11 Int 9 Vit
+>* 8/8 HP 9/9 FP 90/90 SAN
+>* +0 MAB +2 RAB 11 AC
+>* +1 Will +0.5 Re -1 Fort
+>* +1 Per 5 Mo 6.4 BL
+>* Perks: 
+>* *      Arcane Gift, Weapon Proficiency (Light Blades), Improved Melee Attack I, Spellcasting, Improved Melee Attack II, Survival I
+>* Skills: 
+>* *      Survival +1
+>* Spells: 
+>* *      Spark-10
 
 ## Step 5: Familiarize Yourself with the Rules you Need
 
